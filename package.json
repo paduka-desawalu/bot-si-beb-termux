@@ -1,0 +1,14 @@
+{
+  "name": "bot-si-beb",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Si Beb untuk BUMDes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "@hapi/boom": "^10.0.0"
+  }
+}
+aaa
